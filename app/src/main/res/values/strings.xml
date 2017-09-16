@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPSメジャー</string>
+    <string name="place_1">A地点</string>
+    <string name="place_2">b地点</string>
+    <string name="colon">：</string>
+    <string name="latitude_label">緯度</string>
+    <string name="longitude_label">経度</string>
+    <string name="distance_label">距離</string>
+    <string name="meter">(m)</string>
+</resources>
